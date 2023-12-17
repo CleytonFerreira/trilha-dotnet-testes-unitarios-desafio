@@ -1,2 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+using TestesUnitarios.Desafio.Console.Services;
+
+
+ValidacoesLista l = new();
+ValidacoesString s = new();
